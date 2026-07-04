@@ -1,0 +1,10 @@
+firefox_fb_profile/
+friends_input.txt
+ids_only.txt
+review_progress.json
+review_queue.csv
+review_results.csv
+__pycache__/
+*.pyc
+*.log
+.env
